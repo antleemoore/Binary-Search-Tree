@@ -2,11 +2,6 @@
 #include <stdlib.h>
 #include<string.h>
 
-/*Made preorder, inorder, and postorder functions.  Made a create node function.
-  Next is to make an insert node function recursively*/
-
-/*Finished preoroder, inorder, postorder, and insert, search, and count before.  Next is delete.*/
-
 typedef struct tree_node{
   char* name;
   struct tree_node *left;
