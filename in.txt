@@ -1,0 +1,17 @@
+9 3 4
+judy
+mary
+bill
+alice
+tom
+fred
+jane
+joe
+dave
+jane
+jones
+judy
+alice
+mary
+judy
+fred
